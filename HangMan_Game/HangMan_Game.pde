@@ -1,31 +1,4 @@
-Letters[] alpha = {
-  new Letters('a'),
-  new Letters('b'),
-  new Letters('c'),
-  new Letters('d'),
-  new Letters('e'),
-  new Letters('f'),
-  new Letters('g'),
-  new Letters('h'),
-  new Letters('i'),
-  new Letters('j'),
-  new Letters('k'),
-  new Letters('l'),
-  new Letters('m'),
-  new Letters('n'),
-  new Letters('o'),
-  new Letters('p'),
-  new Letters('q'),
-  new Letters('r'),
-  new Letters('s'),
-  new Letters('t'),
-  new Letters('u'),
-  new Letters('v'),
-  new Letters('w'),
-  new Letters('x'),
-  new Letters('y'),
-  new Letters('z')
-}
+alphabet alpha = new alphabet();
   
   
 

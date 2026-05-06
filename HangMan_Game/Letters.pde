@@ -7,6 +7,8 @@ boolean wasCalled = false;
 public Letters(char letter){
   this.letter = letter;
 }
-
+//getLetter(char letter){
+ // return letter;
+//}
 
 }
