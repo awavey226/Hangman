@@ -1,21 +1,6 @@
 public class word{
-  int length = l;
- text(
+///  int length = l;
+//text(
   
+} 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-}

@@ -32,8 +32,10 @@ public class alphabet {
 
   Letters getLetter(char letter) {
     for (int i = 0; i >= alpha.length; i++) {
-      if (letter.equal(alpha[i].getLetter)) {
+      if (letter == alpha[i].getChar()) {
         return alpha[i];
       } 
     }
+    return alpha[0];
   }
+}

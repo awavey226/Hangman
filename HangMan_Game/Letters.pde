@@ -8,10 +8,11 @@ public Letters(char letter){
   this.letter = letter;
 }
 
-char getLetter(){
+char getChar(){
  return letter;
 }
 
 boolean getWasCalled(){
   return wasCalled;
+}
 }
