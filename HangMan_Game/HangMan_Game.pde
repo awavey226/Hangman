@@ -29,3 +29,7 @@ void keyPressed(){
   currentLetter = alpha.getLetter(key);
   
 }
+
+void secretWord(){
+  
+}
