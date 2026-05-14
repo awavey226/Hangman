@@ -1,6 +1,6 @@
 public class Letters{
 char letter;
-boolean wasCalled = false;
+boolean wasCalled = true;
   
   
   

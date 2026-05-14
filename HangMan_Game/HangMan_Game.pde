@@ -2,10 +2,11 @@ alphabet alpha = new alphabet();
 Letters currentLetter;
   
 PImage photo;
-
-
+word cat;
+Letters[] temp = {new Letters('C'), new Letters('A'), new Letters('T')};
 void setup() {
 size(1000, 800);
+ cat = new word(temp);
 photo = loadImage("hangman.png");
 currentLetter = new Letters(' ');
 
